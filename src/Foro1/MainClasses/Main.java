@@ -6,14 +6,30 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String chosenOption = "0";
+        CollectionEjemplo collectionEjemplo = new CollectionEjemplo();
+        ListEjemplo listEjemplo = new ListEjemplo();
+        MainEjercicio mainEjercicio = new MainEjercicio();
+        MapEjemplo mapEjemplo = new MapEjemplo();
+
+        int chosenOption = 0;
         do {
             displayMainMenu();
 
-            chosenOption = scanner.nextLine();
+            chosenOption = scanner.nextInt();
+            if (chosenOption > 5 || chosenOption < 1)
+                System.out.println("Hey nambe, van de 1 a 5");
+            if (chosenOption == 1)
+                mainEjercicio.placeHolderMapPrincipal();
+            if (chosenOption == 2)
+                collectionEjemplo.placeHolderCollection();
+            if (chosenOption == 3)
+                listEjemplo.placeHolderList();
+            if (chosenOption == 4)
+                mapEjemplo.placeHolderMap();
+
             System.out.println("El Pepe: "+chosenOption);
 
-        } while (chosenOption.equals(5));
+        } while (chosenOption != 5);
     }
 
     private static void displayMainMenu() {
