@@ -1,0 +1,16 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æÜÂ8±­ªÉÜ1
+]
+java:S1854	"@Remove this useless assignment to local variable "chosenOption".(ËçÉà8·­ªÉÜ1
+G	java:S106"+Replace this use of System.out by a logger.(Ú¼Ø§8»­ªÉÜ1
+x
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(œ¶‹Êûÿÿÿÿ8º­ªÉÜ1
+L	java:S106"+Replace this use of System.out by a logger.(“§ªÙúÿÿÿÿ8»­ªÉÜ1
+L	java:S106"+Replace this use of System.out by a logger.(ß…Ãôşÿÿÿÿ8¼­ªÉÜ1
+G	java:S106"+Replace this use of System.out by a logger.(‡¹ö8¼­ªÉÜ1
+L	java:S106"+Replace this use of System.out by a logger.(¥†”Ëúÿÿÿÿ8¼­ªÉÜ1
+L	java:S106"+Replace this use of System.out by a logger.(¡ÛÒıùÿÿÿÿ8¼­ªÉÜ1
+G	java:S106"+Replace this use of System.out by a logger.(Èà€ç8¼­ªÉÜ1
+G	java:S106"+Replace this use of System.out by a logger.(Æ£à€8¼­ªÉÜ1
+L	java:S106"+Replace this use of System.out by a logger.(ˆÑ€¬üÿÿÿÿ8¼­ªÉÜ1
+G	java:S106"+Replace this use of System.out by a logger.(Á³·8’¼«ÉÜ1
