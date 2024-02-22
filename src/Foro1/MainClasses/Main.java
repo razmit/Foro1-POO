@@ -12,24 +12,25 @@ public class Main {
         MapEjemplo mapEjemplo = new MapEjemplo();
 
         int chosenOption = 0;
-        do {
-            displayMainMenu();
 
-            chosenOption = scanner.nextInt();
-            if (chosenOption > 5 || chosenOption < 1)
-                System.out.println("Hey nambe, van de 1 a 5");
-            if (chosenOption == 1)
-                mainEjercicio.placeHolderMapPrincipal();
-            if (chosenOption == 2)
-                collectionEjemplo.placeHolderCollection();
-            if (chosenOption == 3)
-                listEjemplo.placeHolderList();
-            if (chosenOption == 4)
-                mapEjemplo.placeHolderMap();
+        displayMainMenu();
 
-            System.out.println("El Pepe: "+chosenOption);
+        chosenOption = scanner.nextInt();
+        if (chosenOption > 5 || chosenOption < 1)
+            System.out.println("Hey nambe, van de 1 a 5");
+        if (chosenOption == 1)
+            mainEjercicio.mapPrincipal();
+        if (chosenOption == 2)
+            collectionEjemplo.placeHolderCollection();
+        if (chosenOption == 3)
+            listEjemplo.placeHolderList();
+        if (chosenOption == 4)
+            mapEjemplo.placeHolderMap();
 
-        } while (chosenOption != 5);
+//        do {
+//            System.out.println("El Pepe: "+chosenOption);
+//
+//        } while (chosenOption != 5);
     }
 
     private static void displayMainMenu() {

@@ -1,13 +1,13 @@
 
 u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æÜÂ8ğ¾ĞëÜ1
-G	java:S106"+Replace this use of System.out by a logger.(üš°å8ù¾ĞëÜ1
-G	java:S106"+Replace this use of System.out by a logger.(Ú¼Ø§8ú¾ĞëÜ1
-L	java:S106$"+Replace this use of System.out by a logger.(“§ªÙúÿÿÿÿ8û¾ĞëÜ1
-L	java:S106%"+Replace this use of System.out by a logger.(ß…Ãôşÿÿÿÿ8û¾ĞëÜ1
-G	java:S106&"+Replace this use of System.out by a logger.(‡¹ö8û¾ĞëÜ1
-L	java:S106'"+Replace this use of System.out by a logger.(¥†”Ëúÿÿÿÿ8û¾ĞëÜ1
-L	java:S106("+Replace this use of System.out by a logger.(¡ÛÒıùÿÿÿÿ8û¾ĞëÜ1
-G	java:S106)"+Replace this use of System.out by a logger.(Èà€ç8û¾ĞëÜ1
-G	java:S106*"+Replace this use of System.out by a logger.(Æ£à€8ü¾ĞëÜ1
-L	java:S106+"+Replace this use of System.out by a logger.(ˆÑ€¬üÿÿÿÿ8ü¾ĞëÜ1
-G	java:S106,"+Replace this use of System.out by a logger.(Á³·8ü¾ĞëÜ1
+G	java:S106"+Replace this use of System.out by a logger.(üš°å8ú¾ĞëÜ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÍãµÀøÿÿÿÿ8¾ÕÆñÜ1
+L	java:S106%"+Replace this use of System.out by a logger.(“§ªÙúÿÿÿÿ8û¾ĞëÜ1
+L	java:S106&"+Replace this use of System.out by a logger.(ß…Ãôşÿÿÿÿ8û¾ĞëÜ1
+G	java:S106'"+Replace this use of System.out by a logger.(‡¹ö8û¾ĞëÜ1
+L	java:S106("+Replace this use of System.out by a logger.(¥†”Ëúÿÿÿÿ8û¾ĞëÜ1
+L	java:S106)"+Replace this use of System.out by a logger.(¡ÛÒıùÿÿÿÿ8û¾ĞëÜ1
+G	java:S106*"+Replace this use of System.out by a logger.(Èà€ç8ü¾ĞëÜ1
+G	java:S106+"+Replace this use of System.out by a logger.(Æ£à€8ü¾ĞëÜ1
+L	java:S106,"+Replace this use of System.out by a logger.(ˆÑ€¬üÿÿÿÿ8ü¾ĞëÜ1
+G	java:S106-"+Replace this use of System.out by a logger.(Á³·8ûâÅñÜ1
