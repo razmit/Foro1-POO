@@ -1,7 +1,7 @@
 package Foro1.MainClasses;
 import java.util.ArrayList;
 import java.util.List;
-public class Main {
+public class ListEjemplo {
     public static void main(String[] args) {
         // Primero se crea un instancia de la clase ArrayList
         List<String> arrayList = new ArrayList<>();
